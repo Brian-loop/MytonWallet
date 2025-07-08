@@ -1,0 +1,2 @@
+# MytonWallet
+my-ton
